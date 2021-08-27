@@ -1,6 +1,6 @@
 # 茶葉蛋食譜
 
-![Tea Egg](/home/weibu/Pictures/Tea_Egg.jpg)
+[Tea Egg](/home/weibu/Pictures/Tea_Egg.jpg)
 
 ## 食材
 
