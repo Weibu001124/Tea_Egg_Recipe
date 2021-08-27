@@ -6,21 +6,19 @@
 
 水 適量
 
-醬油 0.8杯
+醬油 0.5杯
 
-鹽巴 3匙
+鹽巴 2匙
 
-冰糖 1.5匙
+冰糖 2匙
 
-八角 5粒
+八角 2粒
 
 ## 滷汁材料
 
 萬用滷包 1包
 
-紅茶茶包 2包
-
-烏龍茶葉 15克
+紅茶茶包 3包
 
 ## 作法
 
@@ -48,4 +46,4 @@
 
 <https://blog.xuite.net/new_vineger/wretch/130667371-%E6%9C%80%E5%85%A5%E5%91%B3%E7%9A%84%E8%8C%B6%E8%91%89%E8%9B%8B%E4%BD%9C%E6%B3%95%E6%95%99%E5%AD%B8%EF%BC%8C%E5%8F%B0%E7%81%A3%E6%9C%80%E9%81%93%E5%9C%B0%E7%9A%84%E8%8C%B6%E8%91%89%E8%9B%8B%E4%BD%9C%E6%B3%95%E9%A3%9F%E8%AD%9C%E6%95%99%E5%AD%B8%5E%5E>
 
-### This is For Testing Problems of Merging
+<https://icook.tw/recipes/383261>
