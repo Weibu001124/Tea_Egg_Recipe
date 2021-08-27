@@ -1,7 +1,5 @@
 # 茶葉蛋食譜
 
-[Tea Egg](/home/weibu/Pictures/Tea_Egg.jpg)
-
 ## 食材
 
 雞蛋 10顆
