@@ -6,7 +6,7 @@
 
 水 適量
 
-醬油 0.8杯
+香菇素蠔油 1杯
 
 鹽巴 2匙
 
@@ -20,7 +20,7 @@
 
 紅茶茶包 3包
 
-烏龍茶葉 15克
+烏龍茶葉 20克
 
 ## 作法
 
@@ -49,3 +49,5 @@
 <https://blog.xuite.net/new_vineger/wretch/130667371-%E6%9C%80%E5%85%A5%E5%91%B3%E7%9A%84%E8%8C%B6%E8%91%89%E8%9B%8B%E4%BD%9C%E6%B3%95%E6%95%99%E5%AD%B8%EF%BC%8C%E5%8F%B0%E7%81%A3%E6%9C%80%E9%81%93%E5%9C%B0%E7%9A%84%E8%8C%B6%E8%91%89%E8%9B%8B%E4%BD%9C%E6%B3%95%E9%A3%9F%E8%AD%9C%E6%95%99%E5%AD%B8%5E%5E>
 
 <https://icook.tw/recipes/383261>
+
+<https://cookpad.com/tw/%E9%A3%9F%E8%AD%9C/15420768-%E8%8C%B6%E8%91%89%E8%9B%8B?ref=search&search_term=%E8%8C%B6%E8%91%89%E8%9B%8B>
